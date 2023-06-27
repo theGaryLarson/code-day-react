@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<hr />
+
+### CodeDay Tutorial: _Creating Tic-Tac-Toe_
+ - Implements components to create the board
+ - Uses state to manage player turn
+ - Uses state to move to any previous move
+
+<hr/>
+
 ## Available Scripts
 
 In the project directory, you can run:
