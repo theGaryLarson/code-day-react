@@ -6,8 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### CodeDay Tutorial: _Creating Tic-Tac-Toe_
  - Implements components to create the board
- - Uses state to manage player turn
- - Uses state to move to any previous move
+ - Uses state to manage player turn &
+ - save move history
+
+> Check out the [Tic-Tac Toe](https://codesandbox.io/s/hopeful-joliot-9jrs3k?file=/App.js:0-3071) demo
 
 <hr/>
 
