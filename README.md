@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  - Uses state to manage player turn &
  - save move history
 
-* Check out the [Tic-Tac Toe]([https://codesandbox.io/s/hopeful-joliot-9jrs3k?file=/App.js:0-3071](https://9jrs3k.csb.app/)) demo
+* Check out the [Tic-Tac Toe](https://9jrs3k.csb.app/) demo
 > Created following this [tutorial](https://react.dev/learn/tutorial-tic-tac-toe)
 
 <hr/>
